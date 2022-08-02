@@ -1,1 +1,0 @@
-Do and understand Git 
